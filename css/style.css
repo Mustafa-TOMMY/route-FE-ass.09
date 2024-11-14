@@ -1,0 +1,27 @@
+body {
+    background-color: rgb(250, 245, 245);
+}
+
+#main_header h1 {
+    font-weight: 700;
+    font-size: 80px;
+    font-family: impact;
+    margin: 53.6px 0;
+}
+
+#main_header p {
+    font-weight: 400;
+    font-size: 35px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#quotes_section p {
+    font-weight: 400;
+    font-size: 35px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+@font-face {
+    font-family: impact;
+    src: url(../fonts/impact.ttf);
+}
